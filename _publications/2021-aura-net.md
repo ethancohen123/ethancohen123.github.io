@@ -1,7 +1,7 @@
 ---
 title: "aura-net : robust segmentation of phase-contrast microscopy images with few annotations"
 collection: publications
-permalink: /publication/2021-aura-net : robust segmentation of phase-contrast microscopy images with few annotations
+permalink: /publication/2021-aura-net
 date: 2021
 doi: '10.1109/ISBI48211.2021.9433993'
 arxiv: '2102.01389'
