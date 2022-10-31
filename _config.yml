@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Ethan Cohen"
 title_separator          : "-"
-name                     : Ethan Cohen
+name                     : &nameEthan Cohen
 description              : &description "personal description"
 url                      : https://ethancohen123.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
