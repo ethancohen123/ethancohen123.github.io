@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can find my Resume in pdf here [CV](https://github.com/ethancohen123.github.io/files/CV.pdf).
+
 Education
 ======
  
