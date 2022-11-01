@@ -20,31 +20,31 @@ Education
 
 Work experience
 ======
-* 2022-Present: Lead Machine Learning - Scientific advisor at **Metacognisia**, Paris, France:
+* 2022-Present: Lead Machine Learning - Scientific advisor at **Metacognisia**, *Paris, France*:
  
-* 2021-Present: AI Research Scientist at **Synsight**, Paris, France:
+* 2021-Present: AI Research Scientist at **Synsight**, *Paris, France*:
   * Cifre Phd with ENS Paris, working on a strategy to find early stage drug candidate faster using image based drug discovery combined with structure based drug discovery.
 
-* December 2021-April 2022: Talent Manager at **Initiator VC**, London, UK:
+* December-April 2021-2022: Talent Manager at **Initiator VC**, *London, UK*:
   * Part of the recruiting team.
   * Advisor of two startups during the program.  
 
-* September 2021-May 2022: Assistant VC analyst at **G Ventures**, Paris, France:
+* September-May 2021-2022: Assistant VC analyst at **G Ventures**, *Paris, France*:
   * Part of the France’s 1st Student VC Fund managed by students.
   * Sourcing and analysis of various start-up.  
  
-* December 2020-February 2021: Data Scientist at **French National Research Institute for Sustainable Development**, Paris, France:
+* December-February 2020-2021: Data Scientist at **French National Research Institute for Sustainable Development**, *Paris, France*:
   * PoC for malaria detection in microscopic images in a joint project with AP-HP Paris and ENS Paris. 
 
-* 2019-2021: Co-Founder, COO at **DefensIA**, Paris, France:
+* 2019-2021: Co-Founder, COO at **DefensIA**, *Paris, France*:
   * Management of the commercial team and Business development. 
   * Product manager.
 
-* June-November 2020: Research Intern at **European Bioinformatic Institute**, Cambridge, UK:
+* June-November 2020: Research Intern at **European Bioinformatic Institute**, *Cambridge, UK*:
   * Deep learning for biological image segmentation.
   * Statistical shape analysis for morphological characterization of early mouse embryos.
 
-* Summer 2017: Data Scientist Intern at **Shortouch**, Paris, France:
+* Summer 2017: Data Scientist Intern at **Shortouch**, *Paris, France*:
   * Analyzed Data to identify communities on social networks.
   * Programmed scoring algorithms based on how you interact with your contacts online.
 
