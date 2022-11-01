@@ -11,8 +11,6 @@ author_profile: true
 
  - **E. Cohen** and V. Uhlmann, [Aura-Net: Robust Segmentation Of Phase-Contrast Microscopy Images with Few Annotations](https://arxiv.org/abs/2102.01389) 2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI), 2021, pp. 640-644.
 
-<> ## Journal ##
-
 
 ## Pre-print ##
 
