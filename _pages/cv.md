@@ -22,7 +22,7 @@ Education
 
 Work experience
 ======
-#* 2022-Present: Lead Machine Learning - Scientific advisor at **Metacognisia**, *Paris, France*:
+
  
 * 2021-Present: AI Research Scientist at **Synsight**, *Paris, France*:
   * Cifre Phd with ENS Paris, working on a strategy to find early stage drug candidate faster using image based drug discovery combined with structure based drug discovery.
