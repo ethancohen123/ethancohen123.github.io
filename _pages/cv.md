@@ -14,15 +14,15 @@ A PDF version of my CV can be found [here](/files/CV.pdf).
 Education
 ======
  
-* Phd Student in machine learning for drug discovery, Ecole Normale Supérieur Paris, 2024 (expected).
-* Entrepreneurship program, Deeptech Institute PSL, 2022
+* Phd Student in machine learning for drug discovery, **Ecole Normale Supérieur Paris PSL**, 2024 (expected).
+* Entrepreneurship program, **Deeptech Institute PSL**, 2022
   * Courses: Deeptech entrepreneurship, Intellectual property and valorisation and Strategic management of technology and innovation 
-* Master 2 MVA (Mathematics, Vision and Learning), Ecole Normale Supérieur Paris-Saclay, 2020.
-* Bachelor and Master 1 in Applied Mathematics, University Paris Dauphine PSL, 2019.
+* Master 2 MVA (Mathematics, Vision and Learning), **Ecole Normale Supérieur Paris-Saclay**, 2020.
+* Bachelor and Master 1 in Applied Mathematics, **University Paris Dauphine PSL**, 2019.
 
 Work experience
 ======
-* 2022-Present: Lead Machine Learning - Scientific advisor at **Metacognisia**, *Paris, France*:
+#* 2022-Present: Lead Machine Learning - Scientific advisor at **Metacognisia**, *Paris, France*:
  
 * 2021-Present: AI Research Scientist at **Synsight**, *Paris, France*:
   * Cifre Phd with ENS Paris, working on a strategy to find early stage drug candidate faster using image based drug discovery combined with structure based drug discovery.
