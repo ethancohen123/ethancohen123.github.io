@@ -5,5 +5,5 @@ permalink: /posts/2022/blog-post-0/
 
 ---
 
-Example of blog post
+Example of blog posts
 
