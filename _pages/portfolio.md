@@ -1,6 +1,6 @@
 ---
  permalink: /portfolio/
- title: "Teaching"
+ title: "Posts"
 ---
 
 
