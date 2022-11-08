@@ -9,4 +9,4 @@ redirect_from:
 
 
 
-- When multimodal learning meet drug discovery[https://medium.com/@ethan.cohen.pro/when-multimodal-learning-meet-drug-discovery-f1e47bf69951] on Medium (November 2022).
+- [**When multimodal learning meet drug discovery**](https://medium.com/@ethan.cohen.pro/when-multimodal-learning-meet-drug-discovery-f1e47bf69951) on Medium (November 2022).
