@@ -1,5 +1,5 @@
 ---
- permalink: /posts/
+ permalink: /post/
  title: "Blog Posts"
 ---
 
