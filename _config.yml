@@ -187,9 +187,7 @@ collections:
   posts:
     output: true
     permalink: /:collection/:path/
-  post:
-    output: true
-    permalink: /:collection/:path/
+
 
 
 # Defaults
