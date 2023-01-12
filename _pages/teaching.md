@@ -6,4 +6,11 @@
 
 ## At [University Paris Dauphine](https://dauphine.psl.eu/en/)
 
-- Linear Algebra for second year undergraduate: Fall 2020, Fall 2021
+- Linear Algebra for second year undergraduate: Spring 2020, Spring 2021
+- Numerical methods: Optimisation for third year undergraduate MIDO : Spring 2023
+- Numerical methods: Time dependent problem for first year graduate MIDO : Spring 2023
+
+
+## At [Sorbonne Univerisy](https://www.sorbonne-universite.fr/)   
+
+- Mathematics (Linear Algebra and introduction to probability) for first year undergraduate: Spring 2023
