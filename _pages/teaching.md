@@ -11,6 +11,6 @@
 - Numerical methods: Time dependent problem for first year graduate MIDO : Spring 2023
 
 
-## At [Sorbonne Univerisy](https://www.sorbonne-universite.fr/)   
+## At [Sorbonne University](https://www.sorbonne-universite.fr/)   
 
 - Mathematics (Linear Algebra and introduction to probability) for first year undergraduate: Spring 2023
