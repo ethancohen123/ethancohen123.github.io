@@ -10,7 +10,7 @@
 - Numerical methods: Optimisation for third year undergraduate MIDO : Spring 2023
 - Numerical methods: Time dependent problem for first year graduate MIDO : Spring 2023.
                                    [Homework 1](/files/HW1.pdf), deadline : Wednesday April 5
-                                   [Homerwork 2](), deadline: deadline : Wednesday May 17
+                                   [Homerwork 2](), deadline : Wednesday May 17
 
 
 ## At [Sorbonne University](https://www.sorbonne-universite.fr/)   
